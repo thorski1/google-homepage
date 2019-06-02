@@ -1,0 +1,46 @@
+.container {
+    
+}
+
+header {
+    height: 200px;
+}
+
+.buttons {
+    display:flex;
+    justify-content: center;
+     
+}
+
+#Google_Search {
+    margin-right: 5px;
+}
+
+#Lucky {
+    
+}
+
+img {
+    display:block;
+    margin:auto;
+}
+
+.search {
+    display:block;
+    margin:auto;
+}
+
+.google {
+    
+   
+}
+
+.div {
+
+}
+
+
+
+
+}
+
